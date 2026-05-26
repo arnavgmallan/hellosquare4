@@ -1,4 +1,6 @@
 # 🏏 CRICKET VIBE GAME ✨
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d32f32eb-02a9-449d-9cc0-48eafedb925f" />
+
 
 HI!! This is my super-duper cool Cricket game! I used magic computer words (C++ and Kotlin) to build it! It’s like being in a real stadium but on my screen! 🏟️
 
